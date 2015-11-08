@@ -1,0 +1,428 @@
+[center][b][size=14pt][color=navy]★★ Introducing DigiByte 极特币 v3.0.3 MultiShield★★ [/color][/size][/b][/center]
+
+[center][b][size=22pt][color=navy]Earn FREE DigiBytes by playing League of Legends [/color][/size][/b][/center]
+
+[center][b][size=14pt][color=navy]★ Introducing DigiByteGaming.com ★ [/color][/size][/b][/center]
+
+[center][url=http://digibytegaming.com/]Get Started Here: DigiByteGaming.com[/url][/center]
+
+[center][b][size=14pt][color=navy]★ Introducing DigiByteTip.com ★ [/color][/size][/b][/center]
+
+[center][url=http://digibytetip.com/]Tip on Twitter, Twitch, Reddit & YouTube: DigiByteTip.com[/url][/center]
+
+[center][b][url=http://www.digibyte.co/blog/digibyte-receives-250000-investment-opens-global-offices]DigiByte Receives $250,000 Private Investment, Opens Global Offices[/url][/b][/center]
+
+[center][iurl=#about]About[/iurl] | [iurl=#why]Why DGB?[/iurl] | [iurl=#vs]DGB vs. BTC [/iurl] | [iurl=#ex]Exchanges[/iurl] | [iurl=#downloads]Downloads[/iurl] | [iurl=#social]Social Media[/iurl] | [iurl=#pool]Mining Pools[/iurl] | [iurl=#fact]Facts[/iurl] | [iurl=#timeline]Timeline[/iurl] | [url=http://digiexplorer.info/]Block Explorer[/url][/center]
+
+[img]http://i.imgur.com/vq8PiFJ.jpg[/img]
+[anchor=about]
+[center][b][size=14pt][color=navy]What is DigiByte? (60 second explainer video)[/color][/size][/b][/center]
+
+
+[center][url=https://m.youtube.com/watch?v=rmDyhKOjNKM][img]http://i.imgur.com/1ds6urFl.png[/img][/url][/center] 
+
+[hr]
+
+[center][b][size=14pt][color=navy]What is DigiByte?[/color][/size][/b][/center]
+
+
+DigiByte 极特币 (DGB) is a rapidly growing worldwide decentralized payment network & digital currency, inspired by Bitcoin. DigiByte allows you to move money over the internet similar to PayPal & Western Union but with many improvements, including lightning fast transactions with minimal or no fees. You send & receive DigiBytes to or from any DigiByte address in the world in a matter of seconds with no required sign up, registration, or hidden fees.
+
+[center][b][size=14pt][color=navy]Mission statement[/color][/size][/b][/center]
+
+
+The mission of DigiByte is to bring the benefits of digital currency payment technology to merchants, consumers, & mainstream societies across the globe in the most easy to understand way possible.
+
+[center][b][size=14pt][color=navy]Vission statement[/color][/size][/b][/center]
+
+We envision DigiByte becoming a decentralized payment network & digital currency used by millions of people across the planet to quickly & easily buy and sell good & services over the internet, in store, or person-to-person with little to no fees.
+
+[center][b][size=14pt][color=navy]Core pillars[/color][/size][/b][/center]
+
+[b]Absolute Security:[/b] Our number one priority will now and forever be network and user security.
+
+[b]Speedy Transactions:[/b] We strive to create the fastest possible decentralized transactions.
+
+[b]Worldwide Decentralization:[/b] Keep the network open, transparent and accessible at all times.
+
+[b]Ease of Use:[/b] Allow anyone to use and benefit from DigiByte in an easy to understand manner.
+
+[b]Flexible Innovation:[/b] Quickly improve, adapt and innovate as new technology and threats arise.
+
+[center][b][size=14pt][color=navy]Key terms[/color][/size][/b][/center]
+
+[b]DigiByte:[/b] Refers to the entire DigiByte network or a single monetary unit on the payment network. 21 billion DigiBytes will be created over 21 years.
+
+[b]Block:[/b] A grouping of all transactions sent over the DigiByte network within a 30 second time frame. Think of a block as an excel spreadsheet that lists the address location of all DigiBytes at a given point in time in history. New DigiBytes are brought into circulation as each block is discovered on the network through a process called mining.
+
+[b]Mining:[/b] Mining is how transactions are processed on the network. Anyone can become a miner by donating and using their desktop, laptop or mobile phone computing power to help process transactions on the DigiByte network.  DigiByte has made this process even easier with our 3 click mining software for beginners.
+
+[b]Blockchain: [/b]The DigiByte blockchain is the entire history of all blocks discovered on the network & therefore all transactions made on the network. Each block references the proceeding block all the way back to the beginning of the network to what is known as the genesis block. By linking blocks (spreadsheets) together an accurate, secure accounting of all up to date DigiByte ownership is made by decentralized consensus.
+
+[anchor=why]
+[hr]
+
+[center][IMG]http://i.imgur.com/7mUJFz5.png[/img][/center]
+
+[center][b][size=14pt][color=navy]Why use DigiByte?[/color][/size][/b][/center]
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Security:[/b] DigiByte uses five highly advanced cryptographic algorithms.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Speed:[/b] DigiByte transaction notifications occur in 1-3 seconds, blocks are discovered every thirty seconds and transactions are fully confirmed every 3 minutes. Future planned upgrades will make these times even faster.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Fees:[/b] Most DigiByte to DigiByte transactions are free or carry a very small network-mining fee to incentivize people to mine.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Worldwide:[/b] DigiBytes are already stored, traded and transacted in over 89 countries.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Decentralization:[/b] There is no need for a middleman or third party or central server.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Re-Spend:[/b] Send DigiBytes you received to someone else in as little as three minutes.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Finite Production:[/b] New DigiBytes are added to the network every thirty seconds through a process called mining as each new block (or grouping of transactions in a spreadsheet like format) is discovered by the network.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Scarcity:[/b] 21 Billion DigiBytes will be created in 21 years.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]1% Monthly New Minting Reduction:[/b] New DigiByte production decreases 1% every month.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Mining:[/b] DigiByte mining is decentralized with five independent, highly secure mining algorithms.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Adaptable, innovative & flexible:[/b] DigiByte is constantly adding new features & services to remain on the cutting edge of digital currency technology.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Committed Development:[/b] DigiByte has been under constant, progressive development for over one year now with core development team members from all over the world.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Millennial Acquisition Potential:[/b] DigiByte provides merchants, banks & other legacy institutions with a new means of acquiring & connecting with tech savvy millennial users.
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]A Bright Future: [/b]DigiByte has many new & exciting projects underway to be released throughout 2015 to increase DigiByte utility and new user adoption across the globe.
+
+[anchor=vs]
+[hr]
+
+[center][b][size=14pt][color=navy]DigiByte vs. Bitcoin[/color][/size][/b][/center]
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Security:[/b] 5 DigiByte mining algorithms vs. 1 Bitcoin algorithm.
+[list][li]DigiByte mining is much more decentralized.[/li]
+[li]DigiByte mining algorithms can be changed out in the future to prevent centralization.[/li][/list]
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Speed:[/b]  DigiByte transactions occur much faster that Bitcoin transactions.
+[list][li]1-3 second transaction notifications.[/li]
+[li]30 second DigiByte blocks vs. 10 minute Bitcoin blocks.[/li]
+[li]DigiBytes are confirmed after 3 minutes vs. 1 hour with Bitcoins.[/li][/list]
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Transaction Volume:[/b] DigiByte can handle many more transactions per second.
+[list][li]Bitcoin can only handle 7 transactions per second.[/li]
+[li]DigiByte currently can handle 140 transactions per second.[/li]
+[li]Future DigiByte upgrades will push transaction limit to several thousand per second.[/li][/list]
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Total Supply:[/b] More DigiBytes, lower price, more micro transactions, better price stability.
+[list][li]21 billion DigiBytes will be created over 21 years.[/li]
+[li]Only 21 million Bitcoin will be created over 140 years.[/li]
+[li]1:1000 ratio. 1 Bitcoin for every 1000 DigiBytes.[/li][/list]
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Flexibility:[/b] Ability to quickly add new features.
+[list][li]DigiByte can add new features & upgrades much quicker than Bitcoin.[/li]
+[li]Future DigiByte upgrades will push transaction limit to several thousand per second.[/li][/list]
+
+[img]http://i.imgur.com/Rpg2IPW.png[/img][b]Marketability & Usability:[/b] DigiByte is an easy brand to market to consumers.
+[list][li]DigiBytes are much cheaper to acquire.[/li]
+[li]$1 - $10 long-term price target per DigiByte.[/li]
+[li]Send 5 DigiBytes instead of 0.005 Bitcoin.[/li][/list]
+
+[anchor=downloads]
+
+[hr]
+[center][img]http://i.imgur.com/GROslT6.png[/img][/center]
+[center][b][size=14pt][color=navy]DigiByte Core v3.0.3 Wallets & Source[/color][/size][/b][/center]
+
+[center][url=http://www.digibyte.co/sites/digibyte.co/files/digibyte-3.0.3-win32-setup.exe][img]http://i.imgur.com/NF43VPh.png[/img][/url][url=http://www.digibyte.co/sites/digibyte.co/files/digibyte-3.0.3-win64-setup.exe][img]http://i.imgur.com/OAad2Pk.png[/img][/url][url=http://www.digibyte.co/sites/digibyte.co/files/DigiByte-Qt-3.0.3.dmg][img]http://i.imgur.com/Eu7akr1.png[/img][/url][url=http://www.digibyte.co/sites/digibyte.co/files/DigiByte-3.0.3-ubuntu-32bit.zip][img]http://i.imgur.com/lc7FwnX.png[/img][/url][url=http://www.digibyte.co/sites/digibyte.co/files/DigiByte-3.0.3-ubuntu-64bit.zip][img]http://i.imgur.com/QPMyzwR.png[/img][/url][url=https://chrome.google.com/webstore/detail/digibyte-gaming-wallet/lpmijfncbdjhcbockhipcncnhfgghkoj][img]http://i.imgur.com/I1KTG4G.png[/img][/url][url=https://github.com/digibyte/digibyte][img]http://i.imgur.com/92wNSHU.png[/img][/url][/center]  
+
+[center][img]http://i.imgur.com/KI8qcFM.png[/img][/center]
+
+[center][b][size=14pt][color=navy]DigiByte Mobile Wallets[/color][/size][/b][/center]
+
+[center][url=https://play.google.com/store/apps/details?id=com.digibytegaming.digibytegaming][img]http://i.imgur.com/Vnpbysa.png[/img][/url][url=https://appsto.re/hk/h7364.i][img]http://i.imgur.com/m6FY8W4.png[/img][/url][/center]
+
+[center][b][size=14pt][color=navy]DigiByte Info Kit[/color][/size][/b][/center]
+[center][b]Share This PDF With Everyone You Know Who Can Benefit From DigiByte[/b][/center]
+
+[center][iurl=http://www.digibyte.co/sites/digibyte.co/files/DigiByte_Info_Kit.pdf][img]http://i.imgur.com/qMa9hCT.png[/img][/iurl][/center]
+
+[anchor=social]
+
+[hr]
+[center][img]http://i.imgur.com/IQSLD4Z.png[/img][/center]
+
+[center][url=http://www.digibyte.co/][img]http://i.imgur.com/KRrR4Hd.png[/img][/url][url=https://bitcointalk.org/index.php?topic=408268.0][img]http://i.imgur.com/TFWmdru.png[/img][/url][center][url=https://www.linkedin.com/company/digibyte-payment-network][img]http://i.imgur.com/SeIXYNd.png[/img][/url][/center]
+[url=https://www.facebook.com/digibytecoin][img]http://i.imgur.com/dSLckWZ.png[/img][/url][url=https://twitter.com/DigiByteCoin][img]http://i.imgur.com/YHodVdg.png[/img][/url][url=http://www.reddit.com/r/Digibyte/][img]http://i.imgur.com/8hMHZVe.png[/img][/url][url=https://www.youtube.com/user/DigiByteCoin][img]http://i.imgur.com/7tb5xUe.png[/img][/url][url=http://digibytewiki.com/index.php/Main_Page][img]http://i.imgur.com/oituheB.png[/img][/url][url=http://webchat.freenode.net/?channels=#digibytecoin][img]http://i.imgur.com/T7x5p2k.png[/img][/url][/center]
+
+[center][b][size=14pt][color=navy]Meet The Founder Jared[/color][/size][/b][/center]
+
+[center][url=https://www.linkedin.com/pub/jared-tate/90/9aa/257/][img]http://i.imgur.com/SeIXYNd.png[/img][/url][url=https://twitter.com/jaredctate][img]http://i.imgur.com/YHodVdg.png[/img][/url][/center]
+
+[anchor=ex]
+
+[hr]
+
+[center][img]http://i.imgur.com/WdfRtaz.png[/img][/center]
+
+
+[center][url=https://www.cryptsy.com/markets/view/167][img]http://i.imgur.com/dqiBlJe.png[/img][/url][url=https://cex.io/trade][img]http://i.imgur.com/TZHiyCA.png[/img][/url][url=https://bittrex.com/Market/?MarketName=BTC-DGB][img]http://i.imgur.com/98W2LBD.png[/img][/url][url=https://www.litebit.eu/home/dgb/en/][img]http://i.imgur.com/Kz5fbab.png[/img][/url][url=https://comkort.com/trade/dgb_btc][img]http://i.imgur.com/gMmmEOq.png[/img][/url][/center]
+
+[anchor=pool]
+
+[hr]
+
+[center][img]http://i.imgur.com/ozNDATF.png[/img][/center]
+
+DigiByte uses five independent mining algorithms to process transactions over the network. Each algorithm accounts for about 20% of all blocks discovered on the network. This allows for greater decentralization as currently three of the five DigiByte algorithms are ASIC resistant and much better for GPU miners. The best GPU algorithms to mine on are Skein, Groestl and Qubit. It is still possible (but not recommended) to mine all five algorithms with a CPU.
+
+SHA256 is heavily dominated by used Bitcoin ASICS as DigiByte provides an attractive market to miners who can no longer competitively mine Bitcoin with their used ASICS.  Scrypt is now becoming more dominated by ASICs, however it is still possible to GPU mine a few DigiBytes each day.
+
+[center][url=https://bitcointalk.org/index.php?topic=408268.msg10170256#msg10170256][color=navy][b]Download:[/b] DigiHash 3-Click Easy Miner for Beginners[/color][/url][/center]
+
+[left][table][tr]
+[td]
+[/td]
+[td]
+-----------------------
+[center][b]Scrypt[/b][/center]
+-----------------------
+[url=http://digihash.co/][color=navy]DigiHash[/color][/url] 
+[url=https://ghash.io/][color=navy]GHash.io[/color][/url]
+[url=http://www.coinmine.pw/poolinfo.php?coinid=22][color=navy]CoinMine[/color][/url]
+[url=http://dgb.n50.ru/][color=navy]DigiForce[/color][/url]
+[url=http://p2pool.e-pool.net:8922/static/][color=navy]E-Pool.net[/color][/url] 
+[url=http://limp2pool.fr:9022/static/][color=navy]French P2P[/color][/url] 
+[url=http://hashgoal.com/pool/DGB/][color=navy]Hash Goal[/color][/url] 
+[/td]
+[td]
+-----------------------
+[center][b]Sha256[/b][/center]
+-----------------------
+[url=http://digihash.co/][color=navy]DigiHash[/color][/url]
+[url=http://dgb-sha.theblocksfactory.com/][color=navy]The Blocks Factory[/color][/url]
+[url=http://ispace.co.uk/coindetails/?coin=dgb][color=navy]iSpace[/color][/url] 
+[url=https://hamsterpool.com/][color=navy]Hamster Pool [/color][/url]
+[url=http://dgbsha.cryptopools.com/][color=navy]Crypto Pools [/color][/url]
+[url=http://infernopool.com/digibyte/][color=navy]Inferno Pool[/color][/url] 
+[/td]
+[td]
+-----------------------
+[center][b]Qubit[/b][/center]
+-----------------------
+[url=http://digihash.co/][color=navy]DigiHash[/color][/url]
+[url=http://dgb-qubit.theblocksfactory.com/][color=navy]The Blocks Factory[/color][/url]
+[url=http://www.miners-pool.eu/#/pools/digibyte%20-%20qubit][color=navy]Miners Pool EU[/color][/url]
+[url=http://omargpools.ca/dgb/][color=navy]OmarG Pool[/color][/url]
+[url=https://hamsterpool.com/][color=navy]Hamster Pool [/color][/url]
+[url=http://digibyte-qubit.miningpoolhub.com/][color=navy]Mining Pool Hub[/color][/url] 
+[url=https://dgbq.suprnova.cc/][color=navy]Supernova Qubit[/color][/url] 
+[/td]
+[td]
+-----------------------
+[center][b]Skein[/b][/center]
+-----------------------
+[url=http://digihash.co/][color=navy]DigiHash[/color][/url]
+[url=http://dgb-skein.theblocksfactory.com/][color=navy]The Blocks Factory[/color][/url]
+[url=http://www.miners-pool.eu/#/pools/digibyte%20-%20skein][color=navy]Miners Pool EU[/color][/url]
+[url=http://digibyte-skein.miningpoolhub.com/][color=navy]Mining Pool Hub[/color][/url] 
+[url=http://dgb.miningfield.com/index.php][color=navy]Miningfield[/color][/url] 
+[/td]
+[td]
+-----------------------
+[center][b]Groestl[/b][/center]
+-----------------------
+[url=http://digihash.co/][color=navy]DigiHash[/color][/url]
+[url=http://dgb-groestl.theblocksfactory.com/][color=navy]The Blocks Factory [/color][/url]
+[url=http://www.miners-pool.eu/#/pools/digibyte%20-%20groestl][color=navy]Miners Pool EU[/color][/url]
+[url=http://digibyte-groestl.miningpoolhub.com/][color=navy]Mining Pool Hub[/color][/url] 
+[url=https://dgbg.suprnova.cc/][color=navy]Supernova Groestl[/color][/url] 
+[/td][/tr][/table][/left]
+
+[center][url=https://bitcointalk.org/index.php?topic=408268.msg10194594#msg10194594][color=navy][b]Guide:[/b] How To Solo Mine DigiByte[/color][/url][/center]
+
+[center][url=http://digibytewiki.com/index.php/Mining_hardware_comparison][color=navy][b]Guide:[/b] DigiByte Mining Configurations & Hardware Comparison[/color][/url][/center]
+
+[anchor=fact]
+[hr]
+
+[center][img]http://i.imgur.com/lcprx5w.png[/img][/center]
+
+
+[left][table][tr]
+[td]
+[/td][td]
+------------------------------------------------
+[center][b]Basic Facts[/b][/center]
+------------------------------------------------
+[img]http://i.imgur.com/Rpg2IPW.png[/img]21 Billion DGB in 21 years
+[img]http://i.imgur.com/Rpg2IPW.png[/img]30 Second Blocks
+[img]http://i.imgur.com/Rpg2IPW.png[/img]5 independent mining algorithms
+[img]http://i.imgur.com/Rpg2IPW.png[/img]Sha256, Scrypt, Skein, Groestl & Qubit
+[img]http://i.imgur.com/Rpg2IPW.png[/img]0% premine remaining
+[img]http://i.imgur.com/Rpg2IPW.png[/img]1% reward reduction every month
+[img]http://i.imgur.com/Rpg2IPW.png[/img]current reward: 2410 DGB per block
+
+[/td]
+[td]
+--------------------------------------
+[center][b] Network Timeline[/b][/center]
+--------------------------------------
+[b]Launch:[/b]
+[img]http://i.imgur.com/Rpg2IPW.png[/img]Jan. 10th, 2014
+[b]DigiShield Hardfork[/b]
+[img]http://i.imgur.com/Rpg2IPW.png[/img]Block 67,200, Feb. 28th, 2014
+[b]MultiAlgo Hardfork[/b]
+[img]http://i.imgur.com/Rpg2IPW.png[/img]Block 145k, Sep. 1st 2014
+[b]MultiShield Hardfork[/b]
+[img]http://i.imgur.com/Rpg2IPW.png[/img]Block 400k, Dec. 10th 2014
+
+[/td]
+[td]
+--------------------------------
+[center][b]digibyte.conf[/b][/center]
+--------------------------------
+rpcallowip=127.0.0.1
+rpcuser=username
+rpcpassword=password
+server=1
+daemon=1
+txindex=1
+debug=1
+algo=scrypt
+rpcport=14022
+port=12024
+addnode=74.208.230.160
+addnode=216.250.125.121
+addnode=69.164.198.161
+addnode=66.228.56.115
+addnode=104.200.17.141
+
+[/td]
+[/tr][/table][/left]
+
+
+[hr]
+
+[center][b][size=14pt][color=navy]Tofugear Hong Kong Collaboration[/color][/size] [/b][/center]
+[center][b]DigiByte Is Proud To Be Working With Tofugear On Several Exciting Projects[/b][/center]
+
+[center][b][url=http://www.tofugear.com/]Tofugear Website[/url][/b][/center]
+
+The DigiByte Team is pleased to announce the opening of two new companies and offices representing their full suite of products & services: DigiPay LLC of Santa Monica, California and Hong Kong. With a private investment made for USD $250,000, the DigiByte Team now has the financial backing to build software and services around the DigiByte core protocol and bring DigiByte further into the digital and real world markets.
+
+Through a strategic partnership & shared office with Tofugear Limited of Hong Kong, the DigiByte Team has now expanded to developing solutions in a global operation, to meet the ever-changing demands of the consumer.  In collaboration with Tofugear Limited’s strategic retail, wholesale and technical development partnerships, the DigiByte core protocol is currently being developed into a range of solutions that will revolutionize the consumer’s daily life.
+
+[center][img]http://i.imgur.com/FLgQdpJ.png[/img][/center]
+
+[center][b][size=14pt][color=navy]Digibyte & Tofugear omnichannel platform at House of Blue jeans[/color][/size][/b][/center]
+[center][b]Click image to watch the video
+[/b][/center]
+[center][url=https://www.youtube.com/watch?v=XzjMRP4DSBo][img]http://i.imgur.com/K4Lj8ER.jpg[/img][/url][/center] 
+[anchor=timeline]
+
+[hr]
+
+[center][b][size=14pt][color=navy]DigiByte Timeline[/color][/size] [/b][/center]
+
+[left]
+[b]2009 - 2012:[/b] The initial design & development for an open source decentralized cryptocurrency known as Bitcoin is created by an anonymous programmer using the name Satoshi Nakamoto.
+
+[b]2012 – 2013:[/b] The founder of DigiByte, Jared Tate initially discovers Bitcoin and spends over 14 months analyzing, learning & experimenting with the Bitcoin network and source code.
+
+[b]November 2013:[/b] Jared decides to improve upon Bitcoin’s codebase with a brand new digital currency & payment network named DigiByte and begins development.
+
+[b]January 10th, 2014, 12 PM MST:[/b] DigiByte officially launches with much success and user participation from around the globe.
+  
+[b]February 28th, 2014:[/b] DigiShield hardfork at block 67,200. DigiByte developers in response to multi-pool attacks test and develop an asymmetrical difficulty adjustment system named DigiShield. DigiShield is quickly adopted & implemented by many other digital currencies including Dogecoin. Many digital currencies still use & apply parts of DigiShield codebase. 
+
+[b]April 8th, 2014:[/b] DigiByte attends, gives a professional presentation & has a booth at the first ever cryptocurrency convention in New York City. [url=https://www.youtube.com/watch?v=JkWVD8MJlS0]Watch Video Here[/url]
+
+[b]May 1st, 2014:[/b] DigiByte mentioned on CNBC.com. [url=http://www.cnbc.com/id/101633191]Read Here[/url]
+
+[b]May 9th, 2014:[/b] DigiByte mentioned live on CNBC for the first time. [url=http://video.cnbc.com/gallery/?video=3000274165]Watch Video Here[/url]
+
+[b]May - August 2014:[/b] DigiByte team meets with several potential investors & strategic partners.
+
+[b]September 1st, 2014:[/b] MultiAlgo hardfork at block 145,000. DigiByte plans & successfully deploys its second hardfork to allow miners to mine on five independent mining algorithms & is the first digital currency to make such a move. 
+
+[b]November 29th, 2014:[/b] DigiByte officially announces a $250,000 private investment to build services around the DigiByte network as well as a strategic collaboration with Tofugear Ltd of Hong Kong and a new office presence in Hong Kong.  [url=http://www.digibyte.co/blog/digibyte-receives-250000-investment-opens-global-offices]Read Announcement Here[/url]
+
+[b]December 10th, 2014:[/b] MultiShield hardfork at block 400,000. DigiByte deploys & executes its third hard fork to improve network performance alongside a reward reduction to extend DigiByte production to 21 years.
+
+[b]January 10th, 2015:[/b] DigiByte turns one year old.
+
+[b]January 16th, 2015:[/b] DigiByte releases DigiHash Easy Miner for beginners. [url=https://bitcointalk.org/index.php?topic=408268.msg10170256#msg10170256]Read Release Post[/url]
+
+[b]January 21st, 2015:[/b] DigiByte releases 1st Web Based Multi-Signature Wallet. [url=https://bitcointalk.org/index.php?topic=408268.msg10226105#msg10226105]Read Release Post[/url]
+
+[b]January 23rd, 2015:[/b] The first DigiByte wallet has been approved & listed on the Apple iTunes store. [url=https://bitcointalk.org/index.php?topic=408268.msg10235870#msg10235870]Read Release Post[/url]
+
+[b]January 26th, 2015:[/b] DigiByte mentioned on CNBC.com! [url=http://www.cnbc.com/id/102369183]Read Article[/url]
+
+[b]February 1st, 2015:[/b] The DigiByteTip is released to the public for beta testing. This allows users tip send & tip DigiBytes on Twitter, Twitch, Facebook and Reddit. [url=https://bitcointalk.org/index.php?topic=408268.msg10322845#msg10322845]Read Release Post[/url]
+
+[b]March 21st, 2015:[/b] DigiHash Easy Miner 2.0 released!
+
+[b]June, 9th 2015 :[/b] DigiByte has been added to the Coinomi Wallet!
+
+[b]June 12th, 2015:[/b] DigiByte Gaming Wallet released for Android and Chrome extension! [url=http://www.cnbc.com/id/102369183]DigiByte Gaming[/url] [url=http://www.digibytegaming.com]Download the Digibyte gaming wallet[/url]
+
+[b]June 14th, 2015:[/b] EPLDCC releases [url=https://digibytegroup.com/]DigiByte Group[/url]
+
+[b]June 27th, 2015:[/b] DigiStats website goes live! [url=https://digistats.info/]DigiStats[/url]
+
+[b]July 20th, 2015:[/b] DigiReport #1 https://www.youtube.com/watch?v=QnK6ofo6RX8
+
+[b]July 28th, 2015:[/b] DigiReport #2 https://www.youtube.com/watch?v=86CVAVr99-I
+
+[b]August 3th, 2015:[/b] DigiReport #3 https://www.youtube.com/watch?v=JRull_S1RW0
+
+[b]August 10th, 2015:[/b] DigiReport #4 https://www.youtube.com/watch?v=hZeISgFZNXY
+
+[b]August 17th, 2015:[/b] DigiReport #5 https://www.youtube.com/watch?v=-haCDqhaTqc
+
+[b]August 20th, 2015:[/b] Digiknow #1 https://www.youtube.com/watch?v=scr6BzFddso
+
+[b]August 25th,  2015:[/b] DigiReport #6 https://www.youtube.com/watch?v=s6SxmDmUvIk
+
+[b]August 31th, 2015:[/b] DigiReport #7 https://www.youtube.com/watch?v=aI8d-zhpkUs
+
+[b]September 7th, 2015:[/b] DigiByte Gaming Chrome App Updated [url=https://chrome.google.com/webstore/detail/digibyte-gaming-wallet/lpmijfncbdjhcbockhipcncnhfgghkoj]Download Here[/url]
+
+[b]September 8th, 2015:[/b] [url=http://digibytegaming.com/]DigiByteGaming.com[/url] released! Get paid DigiBytes by playing League of Legends!
+
+[b]September 17th, 2015:[/b] [url=https://www.youtube.com/watch?v=nUdsJx1UbuM]How To Sign Up For DigiByte Gaming & Install A Gaming Wallet[/url] 
+
+[b]October 15th, 2015:[/b] [url=https://www.youtube.com/watch?v=tpDlSb8Aj2Q]How To Sign Up for #DigiByteTip and tip on Twitch & Twitte[/url] 
+
+[b]October 20th, 2015:[/b] DigiReport #8 https://www.youtube.com/watch?v=aI8d-zhpkUs
+
+[b]November 3rd, 2015:[/b] [url=https://bitcointalk.org/index.php?topic=408268.msg12865052#msg12865052]A Few Thoughts on DigiSpeed & Blockchain Scalability[/url][/left]
+
+[center][b][size=14pt][color=navy]Digibyte press & news[/color][/size][/b]
+
+[center][url=http://www.cryptoarticles.com/crypto-news/2014/1/13/digibyte-a-professionally-transparent-cryptocurrency]DIGIBYTE : A PROFESSIONALLY TRANSPARENT CRYPTOCURRENCY[/url]
+[url=http://www.followthecoin.com/digibyte-launch-first-promising-altcoin-of-2014/]DigiByte launched: first promising altcoin of 2014?[/url]
+[url=http://www.cryptoarticles.com/crypto-news/2014/1/16/several-merchants-now-accepting-digibytes]SEVERAL MERCHANTS NOW ACCEPTING DIGIBYTES![/url]
+[url=http://www.followthecoin.com/interview-digibyte-team/]Interview with the DigiByte team[/url]
+[url=http://www.cryptoarticles.com/crypto-news/2014/1/22/digibyte-now-with-android-wallet]DIGIBYTE : NOW WITH ANDROID WALLET![/url]
+[url=http://www.cryptoarticles.com/crypto-news/2014/1/29/digibyte-working-on-own-exchange]DIGIBYTE WORKING ON OWN EXCHANGE[/url]
+[url=https://db.tt/LnHTVldQ]Crypto Monthly #1[/url]
+[url=http://www.coindesk.com/digibyte-raises-250k-altcoin-retail-payments]Digibyte raises 250k investment[/url]
+[url=http://www.cnbc.com/2014/05/01/how-im-dodging-bitcoins-flawcommentary.html]Digibyte mentioned in cnbc news article[/url]
+[url=http://www.coindesk.com/press-releases/digital-currency-online-gaming-digibyte-wallet/]Digibyte Gaming press release[/url]
+[url=http://www.omroepwest.nl/nieuws/18-08-2015/hoogstaande-winkeltechnologie-zoetermeer-de-passpiegel-helpt-je-aan-een-nieuwe-out]Tofugear and Digibyte on Dutch TV[/url]
+[url=http://www.frankwatching.com/archive/2015/08/17/betalen-met-bitcoins-zoetermeer-arnhem-lopen-voorop/]Digibyte and Tofugear Dutch news article[/url]
+[url=http://oogopzoetermeer.nl/2015/08/24/de-nieuwste-winkeltechnologie/]Digibyte and Tofugear Dutch news article[/url] [/center]
+[url=http://www.nrcq.nl/2015/08/12/vandaag-zoetermeer-morgen-winkel-jij-ook-zo]Digibyte and Tofugear article in a leading Dutch financial newspaper[/url] [/center]
+
+
+
+[center][b][size=14pt][color=navy]The DigiMan[/color][/size] [/b][/center]
+[center][b]Official DigiByte Mascot[/b][/center]
+
+[center][IMG]http://i.imgur.com/uOGddtd.png[/img][/center]
+
+[center][IMG]http://i.imgur.com/cMLxSc5.png[/img][/center]
+
+[center][IMG]http://i.imgur.com/vq1cdsw.png[/img][/center]
